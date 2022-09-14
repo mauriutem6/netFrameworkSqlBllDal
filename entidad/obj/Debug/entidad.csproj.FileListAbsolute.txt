@@ -1,0 +1,5 @@
+C:\code\inventario\inventarioapi\inventarioapi\entidad\bin\Debug\entidad.dll
+C:\code\inventario\inventarioapi\inventarioapi\entidad\bin\Debug\entidad.pdb
+C:\code\inventario\inventarioapi\inventarioapi\entidad\obj\Debug\entidad.csproj.CoreCompileInputs.cache
+C:\code\inventario\inventarioapi\inventarioapi\entidad\obj\Debug\entidad.dll
+C:\code\inventario\inventarioapi\inventarioapi\entidad\obj\Debug\entidad.pdb

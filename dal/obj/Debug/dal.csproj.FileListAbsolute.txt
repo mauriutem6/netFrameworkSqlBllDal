@@ -1,0 +1,9 @@
+C:\code\inventario\inventarioapi\inventarioapi\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\code\inventario\inventarioapi\inventarioapi\dal\bin\Debug\dal.dll
+C:\code\inventario\inventarioapi\inventarioapi\dal\bin\Debug\dal.pdb
+C:\code\inventario\inventarioapi\inventarioapi\dal\bin\Debug\Newtonsoft.Json.dll
+C:\code\inventario\inventarioapi\inventarioapi\dal\bin\Debug\Newtonsoft.Json.pdb
+C:\code\inventario\inventarioapi\inventarioapi\dal\bin\Debug\Newtonsoft.Json.xml
+C:\code\inventario\inventarioapi\inventarioapi\dal\obj\Debug\dal.csproj.CopyComplete
+C:\code\inventario\inventarioapi\inventarioapi\dal\obj\Debug\dal.dll
+C:\code\inventario\inventarioapi\inventarioapi\dal\obj\Debug\dal.pdb

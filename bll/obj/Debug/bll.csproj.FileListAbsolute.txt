@@ -1,0 +1,12 @@
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\bll.dll
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\bll.pdb
+C:\code\inventario\inventarioapi\inventarioapi\bll\obj\Debug\bll.csproj.CoreCompileInputs.cache
+C:\code\inventario\inventarioapi\inventarioapi\bll\obj\Debug\bll.dll
+C:\code\inventario\inventarioapi\inventarioapi\bll\obj\Debug\bll.pdb
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\dal.dll
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\Newtonsoft.Json.dll
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\dal.pdb
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\Newtonsoft.Json.pdb
+C:\code\inventario\inventarioapi\inventarioapi\bll\bin\Debug\Newtonsoft.Json.xml
+C:\code\inventario\inventarioapi\inventarioapi\bll\obj\Debug\bll.csproj.AssemblyReference.cache
+C:\code\inventario\inventarioapi\inventarioapi\bll\obj\Debug\bll.csproj.CopyComplete
